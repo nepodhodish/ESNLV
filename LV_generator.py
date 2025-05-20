@@ -221,7 +221,7 @@ if __name__ == '__main__':
     
 
     
-    with open('trace_LV_2_e7.pkl', 'wb') as file:
+    with open('train_trace_LV.pkl', 'wb') as file:
         pk.dump(usave.T, file)
 
 
