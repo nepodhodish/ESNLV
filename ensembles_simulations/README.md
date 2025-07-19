@@ -1,4 +1,4 @@
 - LV_ensem_generator - generate non-equilibrium ensemble trajectories 
-- ESN_ensem_predict - perform ESN ensemble prediction and preparing data for GEV fit
+- ESN_ensem_predict - perform ESN ensemble prediction, prepare data for GEV fit, plot histograms
 - predict_max - maximum from each ESN ensemble trajectory 
 - test_max - maximum from each LV ensemble trajectory 
