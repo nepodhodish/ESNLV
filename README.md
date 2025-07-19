@@ -4,7 +4,7 @@ Anton Erofeev, Balasubramanya T. Nadiga, Ilya Timofeyev
 
 Folders:
 - time_series&histograms - <b>Time-series and Equilibrium Histogram prediction</b>
-- ensembles_simulations - 
-- transfer_learning - 
+- ensembles_simulations - <b>Non-Equilibrium Ensemble prediction</b>
+- transfer_learning - <b>Transfer Learning for predicting with a larger time-step</b>
 
 
