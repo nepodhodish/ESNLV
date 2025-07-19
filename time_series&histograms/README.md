@@ -1,1 +1,4 @@
-
+- LV_generator - generate original Lotka-Voltera trajectory 
+- ESN_train - train Echo State Network and save its weights
+- ESN_test - genrate ESN prediction trajectory and compare it with test trajectory
+- model_LV - original ESN weights
