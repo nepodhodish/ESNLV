@@ -1,4 +1,4 @@
-The repository for the paper "Using Echo-State Networks to Reproduce Rare Events in Chaotic Systems"
+The repository for the paper <b>"Using Echo-State Networks to Reproduce Rare Events in Chaotic Systems"</b>
 
 Anton Erofeev_1, Balasubramanya T. Nadiga_2, Ilya Timofeyev_1
 
