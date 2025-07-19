@@ -1,6 +1,9 @@
 The repository for the paper "Using Echo-State Networks to Reproduce Rare Events in Chaotic Systems"
 
-Anton Erofeev, Balasubramanya T. Nadiga, Ilya Timofeyev
+Anton Erofeev_1, Balasubramanya T. Nadiga_2, Ilya Timofeyev_1
+1 - University of Houston 
+2 - Los Alamos National Laboratory
+
 
 Folders:
 - time_series&histograms - <b>Time-series and Equilibrium Histogram prediction</b>
