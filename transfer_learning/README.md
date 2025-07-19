@@ -1,1 +1,3 @@
-
+- LV_generator - generate Lotka-Voltera trajectory with larger time step 
+- ESN_transfer - transfer learning for pretrained Echo State Network and save its weights
+- transfer_model_LV - ESN weights after transfer learning
