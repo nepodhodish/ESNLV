@@ -6,6 +6,8 @@ Anton Erofeev_1, Balasubramanya T. Nadiga_2, Ilya Timofeyev_1
 
 2 - Los Alamos National Laboratory
 
+https://arxiv.org/abs/2505.16208
+
 Folders:
 - time_series&histograms - <b>Time-series and Equilibrium Histogram prediction</b>
 - ensembles_simulations - <b>Non-Equilibrium Ensemble prediction</b>
